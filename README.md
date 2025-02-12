@@ -20,7 +20,6 @@ The feature_engineering function creates new features such as transaction freque
 The normalize_and_scale function normalizes and scales numerical features to ensure consistency.
 7. Encode Categorical Features
 The encode_categorical_features function performs one-hot encoding for categorical features (source, browser, sex).
-
 ## Usage
 
 ### Import the Modules:
