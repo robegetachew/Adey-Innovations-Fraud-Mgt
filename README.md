@@ -18,7 +18,6 @@ The merge_datasets function converts IP addresses to integer format and merges F
 The feature_engineering function creates new features such as transaction frequency, velocity, and time-based features (hour_of_day, day_of_week).
 6. Normalization and Scaling
 The normalize_and_scale function normalizes and scales numerical features to ensure consistency.
-
 7. Encode Categorical Features
 The encode_categorical_features function performs one-hot encoding for categorical features (source, browser, sex).
 
