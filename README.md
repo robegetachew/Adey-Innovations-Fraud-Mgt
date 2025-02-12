@@ -5,11 +5,9 @@ This repository contains a script to preprocess and analyze fraud detection data
 eda.py: The main script containing all the preprocessing functions.
 Fraud_Data.csv: The dataset containing fraud detection data.
 IpAddress_to_Country.csv: The dataset containing IP address ranges and corresponding countries.
-
 ## Preprocessing Steps
 1. Handling Missing Values
 The handle_missing_values function imputes missing values for numerical columns with the mean and drops rows with missing values for categorical columns.
-
 2. Data Cleaning
 The clean_data function removes duplicates, corrects data types, and converts the ip_address column to the appropriate format.
 
