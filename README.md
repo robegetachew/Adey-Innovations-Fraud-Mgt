@@ -16,7 +16,6 @@ The univariate_analysis and bivariate_analysis functions perform univariate and 
 The merge_datasets function converts IP addresses to integer format and merges Fraud_Data.csv with IpAddress_to_Country.csv based on IP address ranges.
 5. Feature Engineering
 The feature_engineering function creates new features such as transaction frequency, velocity, and time-based features (hour_of_day, day_of_week).
-
 6. Normalization and Scaling
 The normalize_and_scale function normalizes and scales numerical features to ensure consistency.
 
