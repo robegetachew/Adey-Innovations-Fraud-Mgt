@@ -13,7 +13,6 @@ The repository is organized into the following directories:
 - **requirements.txt**: Lists dependencies and libraries required for the project setup.
 - **README.md**: Main documentation file with an overview of the project, installation instructions, and usage guidelines.
 ## Installation Instructions
-
 ### Setting Up the Environment
 Ensure you have the necessary dependencies installed:
 
