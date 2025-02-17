@@ -12,8 +12,6 @@ The repository is organized into the following directories:
 - **tests/**: Unit tests to ensure the correctness and robustness of the model and data processing logic.
 - **requirements.txt**: Lists dependencies and libraries required for the project setup.
 - **README.md**: Main documentation file with an overview of the project, installation instructions, and usage guidelines.
-
-
 ## Installation Instructions
 
 ### Setting Up the Environment
