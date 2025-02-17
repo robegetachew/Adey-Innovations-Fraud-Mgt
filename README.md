@@ -15,7 +15,6 @@ The repository is organized into the following directories:
 ## Installation Instructions
 ### Setting Up the Environment
 Ensure you have the necessary dependencies installed:
-
 ```bash
 # Install essential libraries
 pip install pandas
