@@ -8,7 +8,6 @@ This project will involve:
 ## Project structure
 
 The repository is organized into the following directories:
-
 - **.github/workflows/**: Configuration files for GitHub Actions to enable continuous integration (CI) and automated testing.
 - **notebooks/**: Jupyter notebooks for data exploration, feature engineering, and preliminary modeling.
 - **scripts/**: Python scripts for data preprocessing, feature extraction, and fraud detaction model implementation.
