@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 pip install pandas numpy matplotlib scikit mlflow
+=======
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+flask
+dash
+>>>>>>> remaining-tasks
