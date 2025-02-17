@@ -5,7 +5,6 @@ To improve the detection of fraud cases for e-commerce transactions and bank cre
 This project will involve:
 - Analyzing and preprocessing transaction data.
 - Creating and engineering features that help identify fraud patterns.
-  
 ## Project structure
 
 The repository is organized into the following directories:
