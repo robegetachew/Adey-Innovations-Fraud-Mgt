@@ -6,7 +6,6 @@ This project will involve:
 - Analyzing and preprocessing transaction data.
 - Creating and engineering features that help identify fraud patterns.
 ## Project structure
-
 The repository is organized into the following directories:
 - **.github/workflows/**: Configuration files for GitHub Actions to enable continuous integration (CI) and automated testing.
 - **notebooks/**: Jupyter notebooks for data exploration, feature engineering, and preliminary modeling.
